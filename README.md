@@ -15,7 +15,6 @@ This repository contains a **Movie Recommendation System** built using **Collabo
 - **pandas**: Data manipulation
 - **NumPy**: Numerical computations
 - **scikit-learn**: Machine learning algorithms
-- **Surprise**: Collaborative filtering library
 - **matplotlib** (optional): Data visualization
 
 ## Installation
@@ -34,3 +33,10 @@ pip install requests
 pip install matplotlib
 unzip movies.zip
 python3 -m streamlit run app.py
+```
+
+# About this Project
+
+  This is a streamlit web application that can recommend various kinds of similar movies based on an user interest. here is a demo,
+  ## Demo:
+  
