@@ -24,14 +24,13 @@ To run this project, you will need Python 3.x and the following Python libraries
 
 
 ```bash
-pip install
+unzip movies.zip
 pip install pandas
 pip install numpy
 pip install scikit-learn
 pip install streamlit
 pip install requests
 pip install matplotlib
-unzip movies.zip
 python3 -m streamlit run app.py
 ```
 
